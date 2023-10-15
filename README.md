@@ -77,7 +77,7 @@ Este é um aplicativo simples para exibir receitas de sobremesas práticas. Cada
 - Creme de papaia com cassis
 - Bolo de iogurte
 
-- [TODO]
+##### [TODO]
 
 - Peras ao vinho
 - Musse de maracujá
