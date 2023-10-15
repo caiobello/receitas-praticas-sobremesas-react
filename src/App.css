@@ -50,6 +50,5 @@ body {
     background-image: url('./backgroundcelular.PNG');
     height: 100vh; /* Define a altura para 100% da viewport height */
     margin: 0; /* Remove margens para evitar espaços em branco ao redor do body */
-    overflow: hidden; /* Isso oculta a barra de rolagem, se necessário */
   }
 }
